@@ -1,0 +1,20 @@
+body{
+    background-image: linear-gradient(#9599E2, #8BC6EC);
+}
+.container{
+    height: 300px;
+    width: 100%;
+    
+
+}
+
+#display{
+    font-size: 75px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+}
